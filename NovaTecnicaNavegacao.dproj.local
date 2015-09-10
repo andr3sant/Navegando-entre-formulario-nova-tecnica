@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2015/09/08 15:13:02.000.729,=C:\Users\adrianosantos\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015/09/08 17:00:32.000.089,C:\Users\adrianosantos\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\TDevRocks\NovaTecnicaNavegacao\UntPrincipal.pas</Transaction>
+    <Transaction>2015/09/08 17:00:32.000.089,C:\Users\adrianosantos\Documents\Embarcadero\Studio\Projects\Unit1.fmx=C:\TDevRocks\NovaTecnicaNavegacao\UntPrincipal.fmx</Transaction>
+    <Transaction>2015/09/08 17:01:13.000.339,C:\Users\adrianosantos\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\TDevRocks\NovaTecnicaNavegacao\NovaTecnicaNavegacao.dproj</Transaction>
+    <Transaction>2015/09/08 17:11:28.000.329,=C:\TDevRocks\NovaTecnicaNavegacao\Unit1.pas</Transaction>
+    <Transaction>2015/09/08 17:14:04.000.881,C:\TDevRocks\NovaTecnicaNavegacao\Unit1.pas=C:\TDevRocks\NovaTecnicaNavegacao\UntClientes.pas</Transaction>
+    <Transaction>2015/09/08 17:14:04.000.881,C:\TDevRocks\NovaTecnicaNavegacao\Unit1.fmx=C:\TDevRocks\NovaTecnicaNavegacao\UntClientes.fmx</Transaction>
+    <Transaction>2015/09/08 17:14:09.000.671,=C:\TDevRocks\NovaTecnicaNavegacao\Unit1.pas</Transaction>
+    <Transaction>2015/09/08 17:14:26.000.273,C:\TDevRocks\NovaTecnicaNavegacao\Unit1.pas=C:\TDevRocks\NovaTecnicaNavegacao\UntFornecedores.pas</Transaction>
+    <Transaction>2015/09/08 17:14:26.000.273,C:\TDevRocks\NovaTecnicaNavegacao\Unit1.fmx=C:\TDevRocks\NovaTecnicaNavegacao\UntFornecedores.fmx</Transaction>
+    <Transaction>2015/09/08 17:14:39.000.475,=C:\TDevRocks\NovaTecnicaNavegacao\Unit1.pas</Transaction>
+    <Transaction>2015/09/08 17:14:50.000.105,C:\TDevRocks\NovaTecnicaNavegacao\Unit1.fmx=C:\TDevRocks\NovaTecnicaNavegacao\UntProdutos.fmx</Transaction>
+    <Transaction>2015/09/08 17:14:50.000.105,C:\TDevRocks\NovaTecnicaNavegacao\Unit1.pas=C:\TDevRocks\NovaTecnicaNavegacao\UntProdutos.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>
